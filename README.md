@@ -34,3 +34,15 @@ This exercise covers a wide range of web app development topics as specified bel
   - Implemented a custom template filter to render [Markdown](https://github.com/Python-Markdown/markdown)
   - Created a sitemap and a RSS feed for the blog
   - Implemented a full-text search engine using PostgreSQL
+
+#### main page
+![](images/blog.png)
+
+#### adding a comment
+![](images/comment.png)
+
+#### searching for a post
+![](images/search.png)
+
+#### viewing the RSS feed via Fluent Reader
+![](images/fluent_reader.png)
