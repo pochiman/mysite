@@ -41,8 +41,14 @@ This exercise covers a wide range of web app development topics as specified bel
 #### adding a comment
 ![](images/comment.png)
 
+#### sharing by e-mail
+![](images/share.png)
+
 #### searching for a post
 ![](images/search.png)
 
 #### viewing the RSS feed via Fluent Reader
 ![](images/fluent_reader.png)
+
+#### admin page
+![](images/admin.png)
