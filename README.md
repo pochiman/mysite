@@ -2,11 +2,9 @@
 
 This is the code repository for a blog application utilizing the Django framework.
 
-
 ## Instructions
 
 The code is organized into directories and it has a `requirements.txt` file that includes all packages required to run the application. These can be installed with the command `pip install -r requirements.txt`.
-
 
 ## About the Project
 
@@ -16,17 +14,16 @@ The code walks through the creation of a real-world application, solving common 
 
 After completing this project, it has given me a good understanding of how Django works and how to build practical, advanced web applications.
 
-
 ## Requirements
 
 This project requires Python 3.10+ and Django 4.1.
-
 
 ## Django Project
 
 This exercise covers a wide range of web app development topics as specified below:
 
 - **Blog Application** : A complete blog application
+
   - Built data models, views, and URLs
   - Implemented an administration site for the blog
   - Used canonical URLs for models and implemented SEO-friendly URLs for posts
